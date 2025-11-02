@@ -22,11 +22,11 @@ Também estudo **métodos de organização**, desde organização doméstica at�
 
 ## 📊 Projetos
 
-Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. 
+Aqui você encontra os projetos que estou desenvolvendo ao longo do meu processo de transição para a área de dados. Cada repositório contém descrição, contexto do problema, base de dados utilizada (quando aplicável) e principais aprendizados.
 
-|Projeto                                                     |Link                    |Ferramentas   |
-|------------------------------------------------------------|------------------------|--------------|
-|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |PowerBI e SQL |
+|Projeto                                                     |Link do Dashboard       |Link do repositório   ||Ferramentas   |
+|------------------------------------------------------------|------------------------|----------------------||--------------|
+|Estudo sobre a distribuição de bolsas de estudo pelo PROUNI |https://bit.ly/4qMcImL  |xxxxxxxxxxxxxxxxxxxxxx||PowerBI e SQL |
 
 ## 📫 Contato
 
