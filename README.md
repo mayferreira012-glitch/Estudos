@@ -20,17 +20,6 @@ Aplicando e aprofundando meus conhecimentos em **análise**, **modelagem** e **v
 Fora do trabalho, tenho interesse em **literatura de ficção científica** e sempre que possível busco estar em **contato com a natureza**.  
 Também estudo **métodos de organização**, desde organização doméstica até **planejamento e organização financeira**.
 
----
-
-## 🧰 Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PowerBI" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
 
 ---
 
